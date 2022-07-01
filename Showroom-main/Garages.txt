@@ -1,0 +1,8 @@
+1
+anwar abbasia 01003983741
+3
+repair 50 
+wash 5 
+clean 100 
+1
+basel

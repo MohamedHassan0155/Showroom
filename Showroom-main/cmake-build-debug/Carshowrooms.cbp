@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Carshowrooms"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Carshowrooms">
+				<Option output="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Carshowrooms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/DarkTiger N/Desktop/Showroom/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 Carshowrooms"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Carshowrooms/fast">
+				<Option output="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Carshowrooms.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/DarkTiger N/Desktop/Showroom/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 Carshowrooms/fast"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/DarkTiger N/Desktop/Showroom/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/include/admin.h">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/include/customer.h">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/include/garage.h">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/include/showrooms.h">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/main.cpp">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/src/admin.cpp">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/src/customer.cpp">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/src/garage.cpp">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/src/showrooms.cpp">
+			<Option target="Carshowrooms"/>
+		</Unit>
+		<Unit filename="C:/Users/DarkTiger N/Desktop/Showroom/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/customer.h
+iostream
+-
+string.h
+-
+garage.h
+../include/garage.h
+showrooms.h
+../include/showrooms.h
+set
+-
+vector
+-
+
+../include/garage.h
+vector
+-
+iostream
+-
+string
+-
+set
+-
+
+../include/showrooms.h
+vector
+-
+iostream
+-
+
+C:/Users/DarkTiger N/Desktop/Showroom/main.cpp
+iostream
+-
+set
+-
+fstream
+-
+customer.h
+C:/Users/DarkTiger N/Desktop/Showroom/customer.h
+

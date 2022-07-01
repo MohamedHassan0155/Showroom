@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1651876507 source:d:\code\carshowrooms\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+	"customer.h"
+
+1651879578 d:\code\carshowrooms\include\customer.h
+	<iostream>
+	<string.h>
+	"garage.h"
+	"showrooms.h"
+	<set>
+	<map>
+
+1651879571 d:\code\carshowrooms\include\garage.h
+	<vector>
+	<iostream>
+	<string>
+
+1651873674 d:\code\carshowrooms\include\showrooms.h
+	<vector>
+	<iostream>
+
+1651879596 source:d:\code\carshowrooms\src\admin.cpp
+	"customer.h"
+	"iostream"
+
+1651878904 source:d:\code\carshowrooms\src\customer.cpp
+	"customer.h"
+	<set>
+	<iostream>
+	<ctime>
+
+1651879513 source:d:\code\carshowrooms\src\garage.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	"garage.h"
+
+1651860866 source:d:\code\carshowrooms\src\showrooms.cpp
+	"showrooms.h"
+	<iostream>
+	<ctime>
+	<vector>
+
+1653088614 source:e:\code\carshowrooms\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+	"customer.h"
+
+1653087787 e:\code\carshowrooms\include\customer.h
+	<iostream>
+	<string.h>
+	"garage.h"
+	"showrooms.h"
+	<set>
+	<map>
+
+1653088558 e:\code\carshowrooms\include\garage.h
+	<vector>
+	<iostream>
+	<string>
+	<set>
+
+1651873674 e:\code\carshowrooms\include\showrooms.h
+	<vector>
+	<iostream>
+
+1653087863 source:e:\code\carshowrooms\src\admin.cpp
+	"customer.h"
+	"iostream"
+
+1653088601 source:e:\code\carshowrooms\src\garage.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	"garage.h"
+
+1651860866 source:e:\code\carshowrooms\src\showrooms.cpp
+	"showrooms.h"
+	<iostream>
+	<ctime>
+	<vector>
+
+1653087945 source:e:\code\carshowrooms\src\customer.cpp
+	"customer.h"
+	<set>
+	<iostream>
+	<ctime>
+
+1653087863 source:c:\users\centrino\desktop\cshr\carshowrooms\src\admin.cpp
+	"customer.h"
+	"iostream"
+
+1653087787 c:\users\centrino\desktop\cshr\carshowrooms\include\customer.h
+	<iostream>
+	<string.h>
+	"garage.h"
+	"showrooms.h"
+	<set>
+	<map>
+
+1653088558 c:\users\centrino\desktop\cshr\carshowrooms\include\garage.h
+	<vector>
+	<iostream>
+	<string>
+	<set>
+
+1651873674 c:\users\centrino\desktop\cshr\carshowrooms\include\showrooms.h
+	<vector>
+	<iostream>
+
+1653088601 source:c:\users\centrino\desktop\cshr\carshowrooms\src\garage.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	"garage.h"
+
+1651860866 source:c:\users\centrino\desktop\cshr\carshowrooms\src\showrooms.cpp
+	"showrooms.h"
+	<iostream>
+	<ctime>
+	<vector>
+
+1653165167 source:c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+	"customer.h"
+
+1653164597 c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\include\customer.h
+	<iostream>
+	<string.h>
+	"garage.h"
+	"showrooms.h"
+	<set>
+	<vector>
+
+1653165210 c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\include\garage.h
+	<vector>
+	<iostream>
+	<string>
+	<set>
+
+1651873674 c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\include\showrooms.h
+	<vector>
+	<iostream>
+
+1653164165 source:c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\src\admin.cpp
+	"customer.h"
+	"iostream"
+
+1653089250 source:c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\src\customer.cpp
+	"customer.h"
+	<set>
+	<iostream>
+	<ctime>
+
+1653165210 source:c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\src\garage.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	"garage.h"
+
+1651860866 source:c:\users\lenovo\onedrive - faculty of computer and information technology (ain shams university)\desktop\cshr\carshowrooms\src\showrooms.cpp
+	"showrooms.h"
+	<iostream>
+	<ctime>
+	<vector>
+
+1653728795 source:c:\users\dell\desktop\showroom-main (2)\showroom-main\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+	"customer.h"
+
+1653728795 c:\users\dell\desktop\showroom-main (2)\showroom-main\include\customer.h
+	<iostream>
+	<string.h>
+	"garage.h"
+	"showrooms.h"
+	<set>
+	<vector>
+
+1653728795 c:\users\dell\desktop\showroom-main (2)\showroom-main\include\garage.h
+	<vector>
+	<iostream>
+	<string>
+	<set>
+
+1653728795 c:\users\dell\desktop\showroom-main (2)\showroom-main\include\showrooms.h
+	<vector>
+	<iostream>
+
+1653728795 source:c:\users\dell\desktop\showroom-main (2)\showroom-main\src\admin.cpp
+	"customer.h"
+	"iostream"
+
+1653733613 source:c:\users\dell\desktop\showroom-main (2)\showroom-main\src\customer.cpp
+	"customer.h"
+	<set>
+	<iostream>
+	<ctime>
+
+1653728795 source:c:\users\dell\desktop\showroom-main (2)\showroom-main\src\garage.cpp
+	<vector>
+	<iostream>
+	<ctime>
+	"garage.h"
+
+1653728795 source:c:\users\dell\desktop\showroom-main (2)\showroom-main\src\showrooms.cpp
+	"showrooms.h"
+	<iostream>
+	<ctime>
+	<vector>
+
